@@ -1,3 +1,7 @@
+> **TL;DR for this fork:** This repository tracks [microsoft/edit](https://github.com/microsoft/edit)
+> with the startup terminal-probe parser fix from [microsoft/edit#869](https://github.com/microsoft/edit/pull/869).
+> Fork source and release builds are available at [tyx3211/edit](https://github.com/tyx3211/edit).
+
 # ![Application Icon for Edit](./assets/edit.svg) Edit
 
 A simple editor for simple needs.
